@@ -6,7 +6,7 @@
  * @since   2024-04-20
  */
 
-abstract export class Vehicle {
+export abstract class Vehicle {
     // variables
     private color: string
     readonly maxSpeed: number
