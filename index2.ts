@@ -9,7 +9,7 @@
 import { Truck } from "./Truck"
 import { Bike } from "./Bike"
 
-const car = new Vehcile('Red', 40)
+const car = new Vehicle('Red', 40)
 
 console.log('Created car.\nStatus:\n')
 car.status()
