@@ -8,6 +8,7 @@
 
 import { Truck } from "./Truck"
 import { Bike } from "./Bike"
+import { Vehicle } from "./Vehicle"
 
 const car = new Vehicle('Red', 40)
 
